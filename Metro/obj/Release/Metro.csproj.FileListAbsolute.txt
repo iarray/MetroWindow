@@ -1,0 +1,12 @@
+D:\我的文档\2013VS项目\Metro\Metro\bin\Release\Metro.dll
+D:\我的文档\2013VS项目\Metro\Metro\bin\Release\Metro.pdb
+D:\我的文档\2013VS项目\Metro\Metro\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\我的文档\2013VS项目\Metro\Metro\obj\Release\Metro_MarkupCompile.cache
+D:\我的文档\2013VS项目\Metro\Metro\obj\Release\Metro_MarkupCompile.lref
+D:\我的文档\2013VS项目\Metro\Metro\obj\Release\Themes\Generic.baml
+D:\我的文档\2013VS项目\Metro\Metro\obj\Release\Themes\MetroWindow.baml
+D:\我的文档\2013VS项目\Metro\Metro\obj\Release\Metro.g.resources
+D:\我的文档\2013VS项目\Metro\Metro\obj\Release\Metro.Properties.Resources.resources
+D:\我的文档\2013VS项目\Metro\Metro\obj\Release\Metro.csproj.GenerateResource.Cache
+D:\我的文档\2013VS项目\Metro\Metro\obj\Release\Metro.dll
+D:\我的文档\2013VS项目\Metro\Metro\obj\Release\Metro.pdb
